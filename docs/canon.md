@@ -2,6 +2,7 @@
 
 ## General theme
 - **Reversal of fortunes:** Japan dominates instead of Britain (more broadly: East Asia dominates instead of Europe/America), the historical losers become winners etc. This theme is the guiding light of this project — canon is malleable, but the theme should be present throughout.
+- **History with a twist:** We want to include references to (or even have counterparts of) real events and people, but in a different, surprising way. Famous real life figures should still show up, but in a different context, perhaps amusingly so. Easter eggs are encouraged, but keep them subtle: historical plausibility is still a major goal.
 
 ## Pre-1700 foundations (set the stage)
 - **Dutch Revolt fails (1568–1648):** No independent Dutch Republic or VOC-scale springboard; Antwerp remains Habsburg and pan-European clearing/bills culture develops more slowly.
