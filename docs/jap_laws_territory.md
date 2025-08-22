@@ -25,7 +25,7 @@ This document fixes the **law set** and **territorial extent** for Japan under t
 | Bureaucracy | `law_appointed_bureaucrats` | Appointed Bureaucrats | Central standards office + domain technocrats. |
 | Citizenship | `law_cultural_exclusion` | Cultural Exclusion | Non-assimilatory stance, limited naturalization. |
 | Church & State | `law_state_religion` | State Religion | Regulated Buddhist–Shintō institutions; Christianity curtailed. |
-| Colonial Affairs | `law_no_colonial_affairs` | No Colonial Affairs | No overseas colonies at start. |
+| Colonial Affairs | `law_colonial_resettlement` | Colonial Resettlement | Asian-led frontier colonization (Hokkaidō/Kurils/Sakhalin/Ogasawara); no European-style company empires. |
 | Children’s Rights | `law_restricted_child_labor` | Restricted Child Labor | Early factories with some standards. |
 
 > Note: **Caste Hegemony** group is irrelevant for Japan and remains inactive.
