@@ -3,30 +3,30 @@
 This document fixes the **law set** and **territorial extent** for Japan under the “Early Industrial Japan, Atlantic Stall” canon. IDs match Vic3 v1.9.
 
 ## Laws (one per law group)
-| Law Group | Law ID | In-game name | Rationale (canon) |
-|---|---|---|---|
-| Governance Principles | `law_monarchy` | Monarchy | Shogunal polity with standardized central offices. |
-| Distribution of Power | `law_oligarchy` | Oligarchy | Daimyō/samurai + merchant houses dominate; no mass suffrage. |
-| Free Speech | `law_censorship` | Censorship | Controlled openness to technical knowledge; political press constrained. |
-| Economic System | `law_interventionism` | Interventionism | Domain–merchant coordination; patent/standards office. |
-| Education System | `law_private_schools` | Private Schools | Terakoya/domain academies + merchant philanthropy. |
-| Health System | `law_charitable_health_system` | Charitable Health System | Temple/merchant charity precedes public healthcare. |
-| Internal Security | `law_no_home_affairs` | No Home Affairs | No formal home-affairs ministry; order handled via local authority. |
-+| Labor Rights | `law_no_workers_rights` | No Workers’ Rights | Pre-union landscape; no statutory protections yet. |
-| Land Reform | `law_commercialized_agriculture` | Commercialized Agriculture | Tenant/merchant agriculture feeding urban industry. |
-| Migration | `law_migration_controls` | Migration Controls | Vetted inflows via approved rangaku channels. |
-| Policing | `law_dedicated_police` | Dedicated Police Force | Professionalized urban/industrial order. |
-| Rights of Women | `law_women_own_property` | Women Own Property | Conservative society with merchant-class property protections. |
-| Slavery | `law_slavery_banned` | Slavery Banned | No chattel slavery tradition. |
-| Taxation | `law_land_based_taxation` | Land-Based Taxation | Continuity with land/rice tax during monetization. |
-| Trade Policy | `law_mercantilism` | Mercantilism | Licensed trade, tariff tools, export-minded crafts. |
-+| Welfare | `law_no_social_security`  | No Social Security | Charity/private relief precedes any formal welfare. |
-| Army Model | `law_professional_army` | Professional Army | Samurai core professionalized; domain arsenals. |
-| Bureaucracy | `law_appointed_bureaucrats` | Appointed Bureaucrats | Central standards office + domain technocrats. |
-| Citizenship | `law_cultural_exclusion` | Cultural Exclusion | Non-assimilatory stance, limited naturalization. |
-| Church & State | `law_state_religion` | State Religion | Regulated Buddhist–Shintō institutions; Christianity curtailed. |
-| Colonial Affairs | `law_colonial_resettlement` | Colonial Resettlement | Asian-led frontier colonization (Hokkaidō/Kurils/Sakhalin/Ogasawara); no European-style company empires. |
-+| Children’s Rights | `law_child_labor_allowed` | Child Labor Allowed | Early mechanization with minimal statutory restrictions. |
+| Law Group             | Law ID                         | In-game name             | Rationale (canon)                                                                                       |
+| --------------------- | ------------------------------ | ------------------------ | ------------------------------------------------------------------------------------------------------- |
+| Governance Principles | `law_monarchy`                 | Monarchy                 | Shogunal polity with standardized central offices.                                                      |
+| Distribution of Power | `law_oligarchy`                | Oligarchy                | Daimyō/samurai + merchant houses dominate; no mass suffrage.                                            |
+| Free Speech           | `law_censorship`               | Censorship               | Controlled openness to technical knowledge; political press constrained.                                |
+| Economic System       | `law_interventionism`          | Interventionism          | Domain–merchant coordination; patent/standards office.                                                  |
+| Education System      | `law_religious_schools`        | Religious Schools        | Terakoya/temple- and shrine-linked instruction; clergy-led literacy rather than public/private systems. |
+| Health System         | `law_charitable_health_system` | Charitable Health System | Temple/merchant charity precedes public healthcare.                                                     |
+| Internal Security     | `law_no_home_affairs`          | No Home Affairs          | No formal home-affairs apparatus; order handled via local authority.                                    |
+| Labor Rights          | `law_no_workers_rights`        | No Workers’ Rights       | Pre-union landscape; no statutory protections yet.                                                      |
+| Land Reform           | `law_tenant_farmers`           | Tenant Farmers           | Predominantly tenancy/sharecropping; commercialization rises later.                                     |
+| Migration             | `law_migration_controls`       | Migration Controls       | Vetted inflows via approved rangaku channels.                                                           |
+| Policing              | `law_dedicated_police`         | Dedicated Police Force   | Professionalized urban/industrial order.                                                                |
+| Rights of Women       | `law_women_own_property`       | Women Own Property       | Conservative society with merchant-class property protections.                                          |
+| Slavery               | `law_slavery_banned`           | Slavery Banned           | No chattel slavery tradition.                                                                           |
+| Taxation              | `law_land_based_taxation`      | Land-Based Taxation      | Continuity with land/rice tax during monetization.                                                      |
+| Trade Policy          | `law_mercantilism`             | Mercantilism             | Licensed trade, tariff tools, export-minded crafts.                                                     |
+| Welfare               | `law_no_social_security`       | No Social Security       | Charity/private relief precedes formal welfare.                                                         |
+| Army Model            | `law_professional_army`        | Professional Army        | Samurai core professionalized; domain arsenals.                                                         |
+| Bureaucracy           | `law_appointed_bureaucrats`    | Appointed Bureaucrats    | Central standards office + domain technocrats.                                                          |
+| Citizenship           | `law_cultural_exclusion`       | Cultural Exclusion       | Non-assimilatory stance, limited naturalization.                                                        |
+| Church & State        | `law_state_religion`           | State Religion           | Regulated Buddhist–Shintō institutions; Christianity curtailed.                                         |
+| Colonial Affairs      | `law_no_colonial_affairs`      | No Colonial Affairs      | No formal colonization bureaucracy at start; frontier posts without institutional apparatus.            |
+| Children’s Rights     | `law_child_labor_allowed`      | Child Labor Allowed      | Early mechanization with minimal statutory restrictions.                                                |
 
 > Note: **Caste Hegemony** group is irrelevant for Japan and remains inactive.
 
