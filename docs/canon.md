@@ -1,6 +1,7 @@
 # Alternative History Canon — Early Industrial Japan, Atlantic Stall
 
 ## General theme
+- **Historically plausible, yet different:** The changes from OTL should be large: the world is very different. Yet, it needs to feel plausible, not like a joke/meme.
 - **Reversal of fortunes:** Japan dominates instead of Britain (more broadly: East Asia dominates instead of Europe/America), the historical losers become winners, large powers break apart/decline etc. This theme is the guiding light of this project — canon is malleable, but the theme should be present throughout.
 - **History with a twist:** We want to include references to (or even have counterparts of) real events and people, but in a different, surprising way. Famous real life figures should still show up, but in a different context, perhaps amusingly so. Easter eggs are encouraged, but keep them subtle: historical plausibility is still a major goal.
 
