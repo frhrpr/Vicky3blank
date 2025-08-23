@@ -1,0 +1,2 @@
+- for each country enumarate techs/laws explicitly; no "effect_starting_technology_tier_4_tech" etc; every law group should have a single law specified, unless non-applicable (e.g. caste system outside of India)
+- when granting techs check if all the prerequisite techs are researched; ditto for laws, PMs, etc
