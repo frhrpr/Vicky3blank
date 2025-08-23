@@ -1,2 +1,7 @@
 - for each country enumarate techs/laws explicitly; no "effect_starting_technology_tier_4_tech" etc; every law group should have a single law specified, unless non-applicable (e.g. caste system outside of India)
 - when granting techs check if all the prerequisite techs are researched; ditto for laws, PMs, etc
+- no need to set level 1 institutions (automatic from laws)
+- **Launcher & Folder Hygiene**:
+- Folder name is stable: V3Blank_Early_Industrial_Japan_Canon (so “Unpack here” is safe).
+- .metadata/metadata.json must exist and include an "id".
+- descriptor.mod includes supported_version="1.9.*"; bump version on every release.
