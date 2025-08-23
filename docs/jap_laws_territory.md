@@ -70,8 +70,6 @@ _Source of truth: this file reflects `/docs/canon.md` and supersedes any vanilla
 - +1–2 **Logging Camps**, +1 **Fishing Wharf**, +1 **Government Administration** (Frontier Works).
 - Keep **Port 1**. No heavy industry yet.
 
-**Notes:** Use a state modifier later (“Ezo Frontier Works”) to add **migration attraction**, **infrastructure**, and a little **turmoil**.
-
 ---
 
 ### TŌHOKU
@@ -85,8 +83,8 @@ _Source of truth: this file reflects `/docs/canon.md` and supersedes any vanilla
 **Buildings:**
 - **Government Administration +2** (target ≈ 5 total).
 - **Port +1** (Edo Bay throughput).
-- **Naval Base 2–3** **OR** (if you prefer) put the main base in Kyūshū and keep Kantō lighter.
-- Optional: **University 1** (licenses/translation), **Shipyards 1** (secondary yard).
+- **Naval Base 2–3**.
+- **University 1** (licenses/translation), **Shipyards 1** (secondary yard).
 
 ---
 
@@ -104,9 +102,8 @@ _Source of truth: this file reflects `/docs/canon.md` and supersedes any vanilla
 - **Tooling Workshops +2–3 (NEW)**.
 - **Textile Mills +2**, **Paper +1**, **Furniture +1**, **Arms +1**.
 - **Port +1** (Osaka/Kobe throughput).
-- Optional: **University 1**.
-
-**Pilot rail:** Start at **0** and unlock via an early JE (“Osaka Pilot Line”) to place **Railway 1** by event.
+- **University 1**.
+- **Rail 1**.
 
 ---
 
