@@ -67,69 +67,69 @@ _Source of truth: this file reflects `/docs/canon.md` and supersedes any vanilla
 - Literacy: **low** but rising in ports.
 
 **Buildings (at start):**
-- +1–2 **Logging Camps**, +1 **Fishing Wharf**, +1 **Government Administration** (Frontier Works).
+- **Logging Camps**, **Fishing Wharf**, **Government Administration** (Frontier Works).
 - Keep **Port 1**. No heavy industry yet.
 
 ---
 
 ### TŌHOKU
 **POPs:** Mostly **peasants**; small pockets of **miners/machinists** near deposits. Literacy **below national avg**.  
-**Buildings:** Ensure **Iron/Coal Mines 1–2** (where deposits exist), farms as vanilla, light industry only.
+**Buildings:** Ensure **Iron/Coal Mines** (where deposits exist), farms as vanilla, light industry only.
 
 ---
 
 ### KANTŌ (Edo)
 **POPs:** High **bureaucrats/clerks/shopkeepers**, **dockworkers**. Literacy **high** (urban).  
 **Buildings:**
-- **Government Administration +2** (target ≈ 5 total).
-- **Port +1** (Edo Bay throughput).
-- **Naval Base 2–3**.
-- **University 1** (licenses/translation), **Shipyards 1** (secondary yard).
+- **Government Administration**.
+- **Port** (Edo Bay throughput).
+- **Naval Base**.
+- **University** (licenses/translation), **Shipyards** (secondary yard).
 
 ---
 
 ### CHŪBU (Silk belt)
 **POPs:** Big **textile laborer/machinist** share; peasants still numerous.  
 **Buildings:**
-- **Textile Mills +1–2**; set early loom PMs.
-- **Tooling Workshops 1–2** (seed machine parts outside Kansai).
+- **Textile Mills**; set early loom PMs.
+- **Tooling Workshops** (seed machine parts outside Kansai).
 
 ---
 
 ### KANSAI (Osaka/Kyoto) — industrial core
 **POPs:** Highest **machinists/engineers/clerks** share; highest literacy.  
 **Buildings (targets):**
-- **Tooling Workshops +2–3 (NEW)**.
-- **Textile Mills +2**, **Paper +1**, **Furniture +1**, **Arms +1**.
-- **Port +1** (Osaka/Kobe throughput).
-- **University 1**.
-- **Rail 1**.
+- **Tooling Workshops**.
+- **Textile Mills**, **Paper**, **Furniture**, **Arms**.
+- **Port** (Osaka/Kobe throughput).
+- **University**.
+- **Rail**.
 
 ---
 
 ### CHŪGOKU
-**POPs/Buildings:** Similar to vanilla; +1 **Coal/Iron Mine** if deposits exist; small **Textile/Furniture 1** node.
+**POPs/Buildings:** Similar to vanilla; **Coal/Iron Mine** if deposits exist; small **Textile/Furniture** node.
 
 ---
 
 ### SHIKOKU
 **POPs:** Small; plantations + artisans.  
-**Buildings:** Keep **plantations**; optionally **Workshops 1** to distribute proto-industry.
+**Buildings:** Keep **plantations**; optionally **Workshops** to distribute proto-industry.
 
 ---
 
 ### KYŪSHŪ (Nagasaki/Saga) — maritime/arsenal hub
 **POPs:** Many **dockworkers/sailors/machinists**, small **intelligentsia** micro-pop (Nagasaki).  
 **Buildings:**
-- **Shipyards +1–2**, **Naval Base 2–3** (if Kantō is lighter).
-- **Tooling Workshops 1–2 (NEW)**.
-- **Arms +1**, **Textile +1**.
+- **Shipyards**, **Naval Base** (if Kantō is lighter).
+- **Tooling Workshops**.
+- **Arms**, **Textile**.
 
 ---
 
 ### RYŪKYŪ
 **POPs:** (This build lacks a distinct Ryukyuan culture.) Keep **Japanese** pop with **port clerks/dockworkers**; model identity via a **state modifier**.  
-**Buildings:** **Port +1**, **Fishing +1**, small **Gov. Admin 1** (customs/quarantine).
+**Buildings:** **Port**, **Fishing**, small **Gov. Admin** (customs/quarantine).
 
 ---
 
