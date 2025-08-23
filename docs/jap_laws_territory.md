@@ -11,8 +11,8 @@ This document fixes the **law set** and **territorial extent** for Japan under t
 | Economic System | `law_interventionism` | Interventionism | Domain–merchant coordination; patent/standards office. |
 | Education System | `law_private_schools` | Private Schools | Terakoya/domain academies + merchant philanthropy. |
 | Health System | `law_charitable_health_system` | Charitable Health System | Temple/merchant charity precedes public healthcare. |
-| Internal Security | `law_secret_police` | Secret Police | Metsuke-style surveillance scaled for industry. |
-| Labor Rights | `law_regulatory_bodies` | Regulatory Bodies | Early factory oversight/standards without full unions. |
+| Internal Security | `law_no_home_affairs` | No Home Affairs | No formal home-affairs ministry; order handled via local authority. |
++| Labor Rights | `law_no_workers_rights` | No Workers’ Rights | Pre-union landscape; no statutory protections yet. |
 | Land Reform | `law_commercialized_agriculture` | Commercialized Agriculture | Tenant/merchant agriculture feeding urban industry. |
 | Migration | `law_migration_controls` | Migration Controls | Vetted inflows via approved rangaku channels. |
 | Policing | `law_dedicated_police` | Dedicated Police Force | Professionalized urban/industrial order. |
@@ -20,13 +20,13 @@ This document fixes the **law set** and **territorial extent** for Japan under t
 | Slavery | `law_slavery_banned` | Slavery Banned | No chattel slavery tradition. |
 | Taxation | `law_land_based_taxation` | Land-Based Taxation | Continuity with land/rice tax during monetization. |
 | Trade Policy | `law_mercantilism` | Mercantilism | Licensed trade, tariff tools, export-minded crafts. |
-| Welfare | `law_poor_laws` | Poor Laws | Minimal relief prior to modern welfare. |
++| Welfare | `law_no_social_security`  | No Social Security | Charity/private relief precedes any formal welfare. |
 | Army Model | `law_professional_army` | Professional Army | Samurai core professionalized; domain arsenals. |
 | Bureaucracy | `law_appointed_bureaucrats` | Appointed Bureaucrats | Central standards office + domain technocrats. |
 | Citizenship | `law_cultural_exclusion` | Cultural Exclusion | Non-assimilatory stance, limited naturalization. |
 | Church & State | `law_state_religion` | State Religion | Regulated Buddhist–Shintō institutions; Christianity curtailed. |
 | Colonial Affairs | `law_colonial_resettlement` | Colonial Resettlement | Asian-led frontier colonization (Hokkaidō/Kurils/Sakhalin/Ogasawara); no European-style company empires. |
-| Children’s Rights | `law_restricted_child_labor` | Restricted Child Labor | Early factories with some standards. |
++| Children’s Rights | `law_child_labor_allowed` | Child Labor Allowed | Early mechanization with minimal statutory restrictions. |
 
 > Note: **Caste Hegemony** group is irrelevant for Japan and remains inactive.
 
